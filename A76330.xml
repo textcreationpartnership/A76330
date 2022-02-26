@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sorrow upon sorrow: or, The much lamented death of the worthy Mr. Ralph Venning being a sermon preached upon the sad occasion of his death before his burial, from Acts 20.38. Sorrowing most of all that they should see his face no more. By W. Beerman minister of the Gospel.</title>
+            <author>Beerman, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76330</idno>
+            <idno type="STC">Wing B1690A</idno>
+            <idno type="STC">ESTC R218872</idno>
+            <idno type="EEBO-CITATION">99896120</idno>
+            <idno type="PROQUEST">99896120</idno>
+            <idno type="VID">153822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153822)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2382:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sorrow upon sorrow: or, The much lamented death of the worthy Mr. Ralph Venning being a sermon preached upon the sad occasion of his death before his burial, from Acts 20.38. Sorrowing most of all that they should see his face no more. By W. Beerman minister of the Gospel.</title>
+                  <author>Beerman, William.</author>
+               </titleStmt>
+               <extent>[4], 19, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Francis Smith, at the Elephant and Castle neer the Royal Exchange in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within mourning border.</note>
+                  <note>The 'Preface to the reader' is signed: D.L. R.T., the "publishers".</note>
+                  <note>Reproduction of original in the Dr. Williams' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Venning, Ralph, 1621?-1674 --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Acts, XX, 38 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153822:1" rendition="simple:additions"/>
+            <p>SORROW upon SORROW: OR, The much Lamented Death of the worthy Mr. Ralph Venning, BEING A SERMON Preached Upon the Sad Occaſion of his Death before his Burial, From Acts 20.38.</p>
+            <p>
+               <hi>Sorrowing moſt of all that they ſhould ſee his Face no more.</hi>
+            </p>
+            <p>By <hi>W. Beerman</hi> Miniſter of the Goſpel.</p>
+            <p>
+               <hi>And Devout Men carried</hi> Steeven <hi>to his Burial, And made great Lamentation over him.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Francis Smith,</hi> at the Elephant and Caſtle neer the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> 1674.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153822:2"/>
+            <pb facs="tcp:153822:2"/>
+            <head>THE PREFACE to the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>WHo ever thou art, to prevent miſapprehenſions of the Au<g ref="char:EOLhyphen"/>thor that Preach'd this Sermon, or of the Perſon that Writ it, when Preach'd, we muſt tell thee that neither of them, by their ſo doing, deſign'd it for the Preſs, nor is it now pub<g ref="char:EOLhyphen"/>liſh'd for any other profit then thy own, (except the Printers, as the Labourer for his hire,) and this thou may'ſt ſee by its plain and evening Dreſs, in which it firſt appeared to the World, upon that ſorrowful Occaſion of the Death of Worthy Mr. <hi>Ralph Venning:</hi> I muſt acknowledge, through the modeſt unwilling<g ref="char:EOLhyphen"/>neſs of the Author for its Publication, with the want of skill in the Pens Dexterity, many of its Ornaments, I mean thoſe fine Illuſtrations then Delivered may be wanting, but the hearing of it Preach'd pleas'd ſo many, and abides ſo habitually on their ſpirits, as to preſs for its Printing, which makes us not doubt, but the Reading will delight many more, it being ſo ſuitable, on ſo ſad an Occaſion, as the loſs of ſo Worthy and Eminent a Perſon as the Deceaſed was. We muſt alſo tell thee it was deferred the longer from Printing, in hopes the Author would have been ſo kind, if not to have Cloath'd it in its Priſtine ſtate, yet to have help'd any unwitting Errour in it, but the Parent is ſo far from owning this his Iſſue, that he cannot be prevail'd with (though by ſeveral Entreated) to help its lameneſs, occaſioned by the bad Midwife that now brings it to thy view; therefore is thy favour<g ref="char:EOLhyphen"/>able, not ſevere Cenſure deſired.</p>
+            <pb facs="tcp:153822:3"/>
+            <p>If it meet with any ſuch hearts abroad, as it met with in the place where it was Preach'd, we are ſure there will not want watry Eyes, nor affected Hearts at ſuch and ſo great a Diſpen<g ref="char:EOLhyphen"/>ſation, for if the feet of them that bring glad tidings are ſo beau<g ref="char:EOLhyphen"/>tiful, that the holy Spirit by way of Admiration ſaith, How beautiful are the feet of them that bring glad Tidings of the Goſpel of Peace. On the contrary, muſt it not then be matter of great Lamentation, when the footſteps of ſuch are taken away. Its eminently known while he lived, he laboured, and with the good Bee, almoſt, if not altogether, ended his labours with his life. For while Preaching at <hi>Joyners Hall</hi> on the Lords day in the Afternoon, <hi>March 1. 1673.</hi> he was taken ill, and after that, never more able to Preach, but Departed this life, and did to the laſt ſtand by, putting on (as he had exhorted others to do) the whole Armour of God, that thereby they might, as he did, reſiſt the Wiles of the Devil, thus hoping as this that's Publiſh'd will not be chargable in the buying, ſo it will be plea<g ref="char:EOLhyphen"/>ſant in the Reading; If any advantage be to the Reader, let God have the Glory, which is all that ever is aimed at by the Publiſhers, who heartily ſubſcribes themſelves thy Souls ſervants for Chriſts ſake.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>D. L.</hi>
+                     </item>
+                     <item>
+                        <hi>R. T.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:153822:3"/>
+            <head>A SERMON Preached on the Sad Occa<g ref="char:EOLhyphen"/>ſion of the much Lamented Death of the Worthy Mr. <hi>Ralph Venning</hi> before his Burial.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Upon Acts 20.38.</hi>
+                  </bibl>
+                  <p>Sorrowing moſt of all for the words which he ſpake, That they ſhould ſee his Face no more.</p>
+               </q>
+            </epigraph>
+            <p>WHen firſt I was deſired by that Worthy Perſon, that uſed to ſtand in this place to Preach here, I intended to ſpeak from another Text, but Providence having ſince alter'd his State, that Preached Bleſſedneſs to you, by calling him into Bleſſedneſs, I have now therefore pircn'd upon this Text, <hi>Sorrowing moſt of all, that they ſhould ſee his Face no more.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the better part of this Chapter you have the Declaration of two things; <hi>First,</hi> You have declared the carriage of the Apoſtle <hi>Paul,</hi> that was, he Preach'd while he was at the Church of <hi>Epheſus. Secondly,</hi> You have decla<g ref="char:EOLhyphen"/>red
+<pb n="2" facs="tcp:153822:4"/>the Character of the Church of <hi>Epheſus,</hi> when they were parting with this bleſſed Preach<g ref="char:EOLhyphen"/>er, in the words that I have read, and the verſe before, or the two laſt verſes, and it was full of love, and manifeſted in three things;</p>
+            <p n="1">1. <hi>They fell upon his Neck and kiſſed him,</hi> that's the cloſe of the 37. verſe.</p>
+            <p n="2">2. <hi>They accompanyed him unto the Ship, when he was to Launch into the Ocean: They went with him as far as they could, as ſome of them it may be will to the very edge of Eternity.</hi>
+            </p>
+            <p n="3">3. <hi>They ſhew'd to him their Love, by their Weep<g ref="char:EOLhyphen"/>ing, and ſorrowing at Parting: They cannot part with dry eyes.</hi> Hence you may take notice of three things,</p>
+            <p n="1">1. The Univerſality or Generality of them, it was not one or two of <hi>Pauls</hi> hearers, it was not many, or moſt, but all of them; <hi>And they all wept, Men and Women, Old and Young,</hi> or as the Dutch read it, <hi>There was a Weeping among them all.</hi>
+            </p>
+            <p n="2">2. You have the Degree of their Sorrow men<g ref="char:EOLhyphen"/>tioned, and I may ſay of it, as its ſaid of the Mourning in <hi>Zech.</hi> 12.10.11, 12. They ſhall Mourn for him, as one that Mourneth for his only Son; <hi>In that day there ſhall be great Mourning, as the Mourning of</hi> Hadadrimmon <hi>in the valley of</hi>
+               <pb n="3" facs="tcp:153822:4"/>Megiddon, <hi>and the Land ſhall Mourn every family apart.</hi> And 2 <hi>Chron.</hi> 35.24. <hi>All Judah and Jeru<g ref="char:EOLhyphen"/>ſalem mourned for Joſiah:</hi> There was a great Mourning, and as the verſe before my Text ſaith, <hi>They wept ſore,</hi> or a great ſorrowing, or an abun<g ref="char:EOLhyphen"/>dance of Tears came from their eyes at the part<g ref="char:EOLhyphen"/>ing with this Apoſtle Saint <hi>Paul.</hi>
+            </p>
+            <p n="3">3. You have the particulars ſet down where their ſorrow lay, ſaith the Text, <hi>They ſorrowed most of all, eſpecially for this, that they ſhould ſee his Face no more.</hi> It was not ſo much that <hi>Paul</hi> was to go from them, but that they ſhould ſee his Face no more. <hi>Sorrowing moſt of all for the words which he ſpake, that they ſhould ſee his face no more.</hi> But you will ſay, where did <hi>Paul</hi> ſpeak theſe words to them? ſee the 25. verſe. <hi>And now behold, I know that ye all, among whom I have gone Preaching the Kingdom of God, ſhall ſee my face no more.</hi> Though I have been Preaching the King<g ref="char:EOLhyphen"/>dom of God to you, and Preaching you to the Kingdom of God, <hi>Yet now you ſhall ſee my face no more.</hi> From this practice of this Church, I would lay down this Doctrine, That it is the property and practice of the Saints and People of God, to be ſorrowful and affected at the final parting with their Paſtors and Teachers; This
+<pb n="4" facs="tcp:153822:5"/>was that that moſt of all cut their hearts, <hi>That they ſhould ſee his face no more.</hi> If ſo be then that ſuch an able Preacher, when by his withdrawing caus'd them to Cry for him, how ſhould it be when you ſhall have him no more. For the Proſecution of this Doctrine, I ſhall do theſe three things, <hi>Firſt,</hi> I ſhall prove it. <hi>Secondly,</hi> give you the Reaſons of it. <hi>Thirdly,</hi> make Ap<g ref="char:EOLhyphen"/>plication.</p>
+            <p>
+               <hi>Firſt,</hi> for the Proof of it, That it is the Pro<g ref="char:EOLhyphen"/>perty and Practice of the Saints and People of God, when the Saints and Servants of God are taken from them, to be ſorrowfully affected to Lament and Mourn for the loſs of them.</p>
+            <p>I ſhall give you ſome inſtances out of the Old and New Teſtament, 4. or 5. out of the Old, the firſt is of the Patriarch <hi>Jacob,</hi> that Puny-God, that wreſtled and prevailed when he came to die, as you read in <hi>Gen.</hi> 49. and the laſt <hi>verſe,</hi> That <hi>he pull'd up his feet into the bed, and he's gone:</hi> Now ſee what a Mourning there was for him in <hi>Gen.</hi> 50.1. <hi>Joſeph fell upon his Fathers face and kiſſed him,</hi> and verſ. 3. <hi>And the Egyptians mourned for him threeſcore and ten days;</hi> here was a Mourning for <hi>Jacob,</hi> and verſ. 10. <hi>They came to the threſhing-floor of</hi> Atad, <hi>which is beyond</hi> Jordan, <hi>and there they
+<pb n="5" facs="tcp:153822:5"/>Mourned with a great and very ſore Lamentation: and made a mourning for his Father ſeven days.</hi> They carried his Body to the Land of Promiſe, and they mourned with a very great and ſore La<g ref="char:EOLhyphen"/>mentation, and made a Mourning for his Father ſeven days: Now mourn that <hi>Jacob</hi> is gone, a Man that uſed to wreſtle for your Souls is gone, now mourn. A ſecond Inſtance is <hi>Moſes,</hi> that man of God, when he dies, and they ſee his face no more: and in <hi>Deut.</hi> 32.49, 50. God bids <hi>Moſes</hi> there get up into the Mount <hi>Nebo</hi> and die there; God bids <hi>Moſes</hi> go up and die, and you ſee <hi>Moſes</hi> doth it in <hi>Deut.</hi> 34.5. <hi>Moſes the ſer<g ref="char:EOLhyphen"/>vant of the Lord died there in the land of</hi> Moab, <hi>according to the word of the Lord:</hi> and what then? <hi>Moſes</hi> may die if he will, who will concern them<g ref="char:EOLhyphen"/>ſelves for him? ſee verſ. 8. <hi>And the Children of</hi> Iſrael <hi>wept for</hi> Moſes <hi>thirty days:</hi> there is mour<g ref="char:EOLhyphen"/>ning for <hi>Moſes, We ſhall ſee him no more,</hi> whoſe Doctrine dropt as the Rain, and whoſe ſpeech diſtil'd as the Dew, whoſe lips dropt hony. A third inſtance is of the Prophet <hi>Samuel,</hi> he was an excellent Teacher; <hi>God forbid,</hi> ſaith he, <hi>that I ſhould ſin against the Lord, in ceaſing to pray for you, but I will teach you</hi> (and he taught) <hi>the good and the right way of the Lord:</hi> but now obſerve,
+<pb n="6" facs="tcp:153822:6"/>in the 1 <hi>Sam.</hi> 25.1. what mourning the people made for him when he died; its ſaid, <hi>all the</hi> Iſraelites <hi>were gathered together and lamented him,</hi> that is, <hi>from all parts of</hi> Iſrael; all ſorts of <hi>Iſrael</hi> came together and Lamented for <hi>Samuel;</hi> we ſhall never hear his Prayer for us more; <hi>and they lamented for him.</hi> A fourth Inſtance is that of the young Prophet in the 1 <hi>Kings</hi> 13. who with<g ref="char:EOLhyphen"/>out doubt in the main was faithful to God, though ſeduced out of his way, and out of his Life by an old Prophet, whereby a Lyon was appointed by God to deſtroy him, but ſee now how the old Prophet was affected with it as ſoon as he hears it, cauſeth the <hi>Aſs</hi> to be ſadled, and goes and brings the Carcaſe home to the City to Mourn, and to Bury him, and laid him in his own grave in the 30. verſe, and brings all to mourn over him, and charges his Sons that when he was dead, that they bury him in the ſame Se<g ref="char:EOLhyphen"/>pulchre where the man of God was, and lay his bones beſides his bones. 5. One Inſtance more in the old Teſtament is that of the Prophet <hi>Elijah,</hi> a man that the <hi>Apoſtle</hi> ſaith was ſubject to the like Paſſion as we are; This Prophet that pray'd it ſhould rain, and it did; and that pray'd it ſhould not rain, and it did not; This Prophet
+<pb n="7" facs="tcp:153822:6"/>in 2 <hi>Kings</hi> 2. tells his Servant, <hi>he ſhould ſee him no more.</hi> In the 12. he cries out, <hi>My father, my father, and rent his cloaths in two pieces:</hi> that ren<g ref="char:EOLhyphen"/>ding of Cloaths or garments, ſignifies ſorrow; alſo as <hi>David</hi> did when he heard of the death of <hi>Saul,</hi> and alſo repeating it is argument of ſorrow, as <hi>David</hi> did for <hi>Jonathan,</hi> 2 <hi>Sam.</hi> 1.17. to the laſt, and by <hi>Abſalom, Oh Abſalom my ſon, my ſon, my ſon Abſalom.</hi> I ſhall now inſtance in the New-Teſtament, it was ſo with them of <hi>Epheſus</hi> when they parted with <hi>Paul, They ſhould ſee his face no more.</hi> He had been ſuch a Preacher that they could not part with him without tears, or with dry eyes; if you look into <hi>Acts</hi> 20.18. you ſee his labour, <hi>Ye know that from the first day that I came, after what manner I have been with you:</hi> At all ſeaſons he Preach'd to them, in ſeaſon, and out of ſeaſon; and he was a faithful Preacher, he did not neglect to declare the whole Councel of God; and he was a couragious Preacher too, he did not care what became of himſelf for their good: Now if people looſe ſuch a Preacher, ſo painful, ſo laborious, it is no wonder if they mourn, <hi>when they ſhall ſee his face no more.</hi> A ſe<g ref="char:EOLhyphen"/>cond inſtance is of <hi>Stephen,</hi> who was the firſt Martyr that ever was in the New-Teſtament;
+<pb n="8" facs="tcp:153822:7"/>
+               <hi>Stephen</hi> was the firſt Goſpel-Officer that ever I read was choſen, he was the beſt read in Scrip<g ref="char:EOLhyphen"/>ture, for <hi>Acts</hi> 7. he runs over all the Scripture, and in the 51. verſe, he calls them ſtiff-necked, and uncircumciſed in heart and ears, <hi>Ye do always reſiſt the Holy Ghoſt;</hi> now this <hi>Stephen</hi> that thus Preach'd the Scripture to them, they put him to Death, as you may read in the cloſe of the ſeventh Chapter of the <hi>Acts,</hi> but now how was he buried in <hi>cap.</hi> 8. <hi>verſ.</hi> 2. <hi>Devout men carried</hi> Stephen <hi>to his Burial, and made great Lamentation over him.</hi> That <hi>Stephen</hi> that was ſo powerful a Preacher, and to Pray for us, <hi>We ſhall ſee his face no more.</hi> The laſt inſtance is that of our Lord Jeſus, he is called by <hi>Nichodemas, A Teacher ſent from God:</hi> By <hi>Paul</hi> in the <hi>Romans,</hi> The <hi>Miniſter of the Circumci<g ref="char:EOLhyphen"/>ſion:</hi> By <hi>Matthew, As one having Authority, and not as the Scribes:</hi> Now this bleſſed Teacher being taken away, you ſhall find they were much trou<g ref="char:EOLhyphen"/>bled, <hi>Joh.</hi> 16.5. he tells them he was going away to him that ſent him, <hi>He was going to his Father;</hi> In the 6. verſe ſaith he, <hi>Becauſe I have ſaid theſe things to you, ſorrow hath fill'd your hearts.</hi> Oh Lord Jeſus, what? thou go away, ſorrow was in their heart, and ſorrow fil'd their heart becauſe he was to go away; and when he was dead and
+<pb n="9" facs="tcp:153822:7"/>buried, you find there was weeping and mourn<g ref="char:EOLhyphen"/>ing; as you may ſee in <hi>Joh.</hi> 20.11.13, 15. there was weeping and mourning, and mourning and weeping, yea, &amp; thoſe that were his Perſecutors, they were ſorrowful, <hi>Luk.</hi> 23.48. <hi>And all the people that came together to that ſight, beholding the things that were done, ſmote their breaſts:</hi> and in the 27. verſe of that Chapter, when Chriſt was carrying to be put to Death, there followed him a great multitude of people, and women which alſo bewailed and lamented him, <hi>There was great lamentation:</hi> Oh they could not part with Jeſus Chriſt without lamenting, <hi>That they ſhould ſee his face no more.</hi> But it will be here objected in the next verſe, that Jeſus Chriſt in <hi>Luke</hi> 23.28. turn'd to theſe women that wailed, and wept, and ſaid, <hi>Daughters of Jeruſalem, weep not for me, but for your ſelves:</hi> That therefore there ought not to be weeping, or lamenting for the departure of any eminent Saint, ſeeing he forbids it for himſelf; It argues indeed we ſhould not weep for them, but for the want of them, which is ours. Chriſt bids not by his forbiding weeping upon his account, but not to weep on his account, as if he had ſaid, <hi>Dont weep for me, as for my ſuffering, or upon my account, but for your ſelves, and your own children:</hi>
+               <pb n="10" facs="tcp:153822:8"/>there are dreadfuler things coming upon you then theſe; <hi>Bleſſed are the barren that bare not:</hi> dont weep for me may this ſervant of God ſay that we are ſpeaking of at preſent, <hi>Dont weep for me, I am gon from way to way, from triumph to triumph;</hi> but it is for the people of God to be heartily af<g ref="char:EOLhyphen"/>fected when the worlds Teachers are taken from them: but you may ſay, <hi>Why ſhould it be thus?</hi> I will ſhew you in five particulars, why you and them ſhould be greatly affected with this dreadful providence of God that hath lately be<g ref="char:EOLhyphen"/>fallen. Firſt, becauſe the death of ſuch men poſſibly is for your ſakes, for your ſakes they had lived longer had it not been for others: and if it be ſo, then we had need to bedew their Hearſe with tears, I'le give you a three-fold meaning. Firſt, it is poſſible in our ſervice that he loſt his life, for it may be, that in the painful labouring for the ſaving of our ſouls, he loſt his life, and will you not lament? Secondly, we may occaſion the Death of godly Preachers thus, wounding their Spirits, grieving their Hearts, that we profit no more: if that be true in the 1 <hi>Theſ.</hi> 3.8. where the Apoſtle ſaith, <hi>For now we live if ye stand faſt in the Lord:</hi> Then it is belo<g ref="char:EOLhyphen"/>ved, if ye Apoſtatize ye kill our hearts. Thirdly,
+<pb n="11" facs="tcp:153822:8"/>poſſibly we may occaſion the Death of Godly Preachers by the non-improving of his Miniſtry. Sirs, God ſends his Embaſſadors, &amp; we give them not the hearing, or but the hearing, and if our unprofitableneſs and non-improving ſhall occa<g ref="char:EOLhyphen"/>ſion this, ſhall we not mourn and lament that we ſhould be the cauſe of their death. Secondly, why ſhould thoſe that are hearers be deeply affected at the final departure of holy Miniſters. I an<g ref="char:EOLhyphen"/>ſwer, This ariſes from the love that is between them: there is a mutual love between a faithful Preacher and a ſincere Hearer: Now beloved, you ſhall obſerve two things to attend this aſ<g ref="char:EOLhyphen"/>ſertion of love, according to the Nature and Degree of it. 1. Where there is Love, there is delight of, and enjoyment. And ſecondly, where there is love, there is mourning in the ab<g ref="char:EOLhyphen"/>ſence of it, in the 3 <hi>John</hi> 29. ſaith our Saviour, <hi>He that hath the Bride, is the Bridegroom; but the friend of the Bridegroom which ſtandeth and heareth him, rejoyceth greatly, becauſe of the Bridegrooms voice:</hi> ſo on the contrary, when he is taken from them, there cannot be but great mourning in the 37. <hi>Gen.</hi> 3. Its ſaid that <hi>Iſrael</hi> loved <hi>Joſeph</hi> more then all his Children, and therefore when News came to <hi>Jacob</hi> that <hi>Joſeph</hi> was not: oh! ſaith
+<pb n="12" facs="tcp:153822:9"/>
+               <hi>Jacob</hi> v. 35. <hi>I will go down into the Grave unto my Son mourning.</hi> So <hi>David</hi> lamented for <hi>Abſolon, oh Abſo<g ref="char:EOLhyphen"/>lon my ſon, my ſon Abſolon;</hi> and <hi>David</hi> lamented exceedingly for <hi>Jonathan</hi> in that 1 <hi>Kings.</hi> I am di<g ref="char:EOLhyphen"/>ſtreſſed for thee my Brother <hi>Jonathan;</hi> if you love your Preachers ſo as its ſaid of them that could pull out their eyes for them while living, you will even weep out your eyes for them now dead. Thirdly, no wonder that the Children of God are under ſo much ſorrow when Preachers are taken from them, for now they are under the Execution of Divine threatning: as the giving of faithful Teachers is the loving kindneſs of God, ſo taking them away, is of a great threatning in <hi>Iſa.</hi> There is a promiſe, <hi>That I give you the wa<g ref="char:EOLhyphen"/>ter of affliction, yet your eyes ſhall ſee your Teachers, and you ſhall not be driven into Corners.</hi> Now ſee <hi>Iſa.</hi> 3.1. There it is a threatning, <hi>I will break the whole ſtay of bread, and the whole stay of water.</hi> In <hi>Jer.</hi> 3.15. There is a promiſe, <hi>I will give you Paſtors according to my own heart.</hi> It ſignifie great Love, and is a fulfilling of a great Promiſe when God gives them Paſtors according to his own heart. Now, as it is a Promiſe to give them ſo it is a threatning when God takes them away<g ref="char:punc">▪</g> In <hi>Jer.</hi> 22.22. ſee how dreadful a threatning
+<pb n="13" facs="tcp:153822:9"/>is, ſaith the Prophet, <hi>The wind ſhall eat up thy Pastors, ſurely then ſhalt thou be aſhamed, and con<g ref="char:EOLhyphen"/>founded for all thy wickedneſs.</hi> Fourthly, well may we mourn, when God removes our faith<g ref="char:EOLhyphen"/>full able Teachers from us, for we are like e<g ref="char:EOLhyphen"/>nough, ſoon after their departure from us, to corrupt our ſelves: I remember in <hi>Exod.</hi> 32.7. God ſpeaks to <hi>Moſes</hi> when he was in the Mount, <hi>God get thee down, for this people which thou broughteſt out of</hi> Egypt, <hi>have corrupted themſelves:</hi> God tells <hi>Moſes</hi> you have been here with me in the Mount 40. days; It is time for you to be gone, get thee down, the people have turn'd out of the way; no ſooner are you turn'd from the people, but they turn their backs upon me. <hi>Deut.</hi> 31.27. <hi>Moſes</hi> ſpeaks to <hi>Iſrael, I know thy Rebellion, and thy ſtiff-neck: behold while I am yet alive with you this day, ye have been Rebellious againſt the Lord, and how much more after my Death:</hi> as if <hi>Moſes,</hi> as the Miniſter ſhould ſay to this Congregation, I have had much a do to keep you a live, what will you do after my death; for in the 29. verſe, ſaith <hi>Moſes, I know that after my Death ye will utterly corrupt your ſelves, and turn aſide from the way which I have commanded you, and evil will befall you in your latter days, becauſe you will do evil in the
+<pb n="14" facs="tcp:153822:10"/>ſight of the Lord.</hi> In 2 <hi>Chron.</hi> 24.2. Its ſaid, all the time that <hi>Jehoiada</hi> lived, <hi>Joaſh</hi> followed the Lord, but when he died, <hi>Joaſh</hi> turned to Idolatry, as you have it in the 18. verſe of that Chapter, <hi>And they left the houſe of the Lord God of their Fathers, and ſerved Groves and Idols.</hi> While the light is, we walk well, but when the light is taken away, then we fall and ſlip. Fifthly, why ſhould the Servants and Saints of God be ſo much affected when God takes away faithful Teachers from them, becauſe when they go, evil comes; if ſo be <hi>Sampſon</hi> lays his hold upon the Pillars, the houſe will fall; but when Death comes to lay hold on the Preacher, what will the Houſe do? <hi>I know,</hi> ſaith <hi>Paul, after my departure Wolves will come.</hi> In <hi>Luke</hi> 23.29, 30. ſaith our Saviour, <hi>The days are coming, in which they ſhall ſay, Bleſſed are the Barren, and the Wombs that never Bare, and the Paps which never gave Suck.</hi> Abſolute dreadful deſtruction was coming when Chriſt was going; I could tell you of a thing that I have look't upon as a piece of a Propheſie, it was Printed and Writ ten years before the Fire of <hi>London,</hi> and it was this,
+<q>
+                  <l>London <hi>look to it, what Heaven's a doing,</hi>
+                  </l>
+                  <l>
+                     <hi>Thy Flames are coming when thy Lots are going.</hi>
+                  </l>
+               </q>
+               <pb n="15" facs="tcp:153822:10"/>The <hi>Rabbins</hi> ſay, that when the great Lumina<g ref="char:EOLhyphen"/>ries are Eclipſed, it abodes evil to the World: what ſhall ſtop when they go? aſſure you here is Eclipſed a great Luminary in this World; as ſoon as <hi>Noah</hi> got into the <hi>Ark,</hi> the Flood came there; as ſoon as <hi>Lot</hi> got out of <hi>Sodom,</hi> Fire and Brimſtone came down from Heaven and deſtroy<g ref="char:EOLhyphen"/>ed it. When I conſider who is gone, and who are going, I dread. What became of <hi>Prague</hi> when <hi>Jerom</hi> was dead: what became of <hi>Jermany</hi> when <hi>Luther</hi> was dead: and what will become of <hi>England</hi> when ſuch as theſe are dead.</p>
+         </div>
+         <div type="part">
+            <head>APPLICATION.</head>
+            <p>I now come to Application. If this be true, that it ought to be the Practiſe, and is the Pro<g ref="char:EOLhyphen"/>perty of the Saints, and the People of God to bewaile the final departure of their Preachers and Teachers. Then I infer this, that where God continues faithful Teachers, where God reſtores ſuch faithful Teachers, or where God ſends ſuch faithful Teachers, it is cauſe of great Joy. Secondly, is it ſo ſore an Affliction to looſe and finally to part with a powerful Preacher, then beloved we ſhould exceedingly ſtir up our ſelves to deprecate theſe evils, that is, to pray
+<pb n="16" facs="tcp:153822:11"/>to God to prevent ſuch evils as this is: I re<g ref="char:EOLhyphen"/>member <hi>Jabez</hi> in 1 <hi>Chron.</hi> 4.10. calls on God, <hi>Oh that thou wouldst bleſs me indeed, and enlarge my Coaſt, and that thy hand might be with me, and that thou wouldſt keep me from evil, that it may not grieve me, and the Lord grant him that which he requeſted:</hi> We ſhould go to God and ſay, <hi>Lord don't take theſe and theſe from us, that will be a very great evil to us,</hi> ſurely if God hath taught us to pray, <hi>That the Lord of the Harvest ſhould ſend Labourers into his Harveſt,</hi> then we have cauſe to pray that ſuch ſhould not be taken out. Thirdly, if it be of concern for thoſe to mourn that are the People of God, then this ſerves to reprove two ſorts of hearers. 1. It reproves them, who when faith<g ref="char:EOLhyphen"/>ful Teachers are taken away, it glads their hearts; aye ſay they, would they were all there; The Saints they mourn <hi>becauſe they ſhall ſee their faces no more;</hi> and you are nothing more glad then that <hi>you ſhall ſee their faces no more:</hi> Theſe are like them in <hi>Judges</hi> 16.23. <hi>That gathered themſelves together to offer a great Sacrifice unto</hi> Dagon <hi>their God, and to rejoyce for that our Enemy is delivered into our hand:</hi> And in <hi>Rev.</hi> 9.10. <hi>And they of the People and Nation, and Kindred, and Tongues, ſhall ſee their dead Bodies, and they that dwell upon the
+<pb n="17" facs="tcp:153822:11"/>Earth, ſhall rejoyce over them, and make merry, and ſhall ſend guifts one to another.</hi> O Sirs, I ſend you away with this, and much good it may do you if it can, you that thus ſend guifts, and re<g ref="char:EOLhyphen"/>joyce when ſuch Teachers go; you go the way to Hell, and none ſaith, whither go you. Second<g ref="char:EOLhyphen"/>ly, they are to be Reproved too, though not ſo much as theſe; they are to be Reproved, I ſay alſo, that are not affected at all at the Death of faithful Teachers: there is ſuch a one dead, alas ſay ſome, I never heard he was ſick: what di<g ref="char:EOLhyphen"/>ſeaſe did he Die of, how long was he Sick? how hath he left his Family? and ſuch things as theſe; and that he was a good Preacher, but no Tears at all; They are like the Gadeurens of old that liked not to part with a Hogg as with a Saviour: They are like them in <hi>Zach.</hi> 11.9. who ſaid, <hi>That that dieth, let it die; and that that is cut off, let it be cut off.</hi> If ſuch a man be ſick, let him be ſick; if he die, let him die: Come, come, if you had learnt any good by his Miniſtry, you could not have parted with him ſo looſly. Let me call upon this Congregation this Even<g ref="char:EOLhyphen"/>ing, that we would be in the <hi>Eph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſians</hi> Practiſe; they Mourned when <hi>Paul</hi> was going, and they ſhould <hi>ſee his face no more:</hi> Your Preacher is
+<pb n="18" facs="tcp:153822:12"/>gone, <hi>And you ſhall ſee his face no more.</hi> I would I could raiſe you to their height of Mourning; it is ſaid of <hi>Scipio,</hi> that when he was gone out of the City, the wall of the City were fal<g ref="char:EOLhyphen"/>len; ſo I may ſay of <hi>London,</hi> thy walls are fal<g ref="char:EOLhyphen"/>len: Truly Beloved, I could, when I ſee what God hath done, and is a doing, I could cry out, <hi>Come out for your walls are fallen.</hi> I ſhall only propoſe three things, 1. This is not a ſingle blow, this lot of the Servant of God, taken from this people, is not a ſingle blow; it is not the firſt Miniſter that God hath taken away, nor is it like to be the laſt; we may ſay <hi>Joſeph</hi> is not, nor <hi>Simion</hi> is not, and <hi>Benjamin</hi> is gone alſo. I have obſerved how many God hath taken ſince a black <hi>Bartholomew;</hi> that ſince men hath taken away their livelyhoods, God took away their lives; how could you think that he, he that Preach'd bleſſedneſs ſo little while ſince, ſhould be ſo ſoon gone to bleſſedneſs. Secondly, conſider this blow, a Saint, yea, a Miniſter, one of the many, one that excelled moſt, an able Miniſter of the New Teſtament, a workman that need not be aſhamed: Beloved, whoſe ears was not taken with his Language? that one that but once heard him, but muſt come again.</p>
+            <pb n="19" facs="tcp:153822:12"/>
+            <p>He begat you in Chriſt Jeſus, though none of his own, but Chriſts; and you may get one to ſucceed him, but not to exceed him, but I deſire that man to tell me where.</p>
+            <p>Beloved, I find the Death of Chriſt, to differ from the death of the Saints, in <hi>Joh.</hi> 16.7. for ſaith our Saviour, <hi>It is expedient for you that I go away, for if I go not away, the Comforter will not come unto you, but if I depart, I will ſend him unto you:</hi> It was well for Chriſt to go from us, be<g ref="char:EOLhyphen"/>cauſe we ſhould have the Comforter ſtill, but it is not ſo with us when Miniſters part, <hi>Paul</hi> ſaith not, <hi>Its good for you that I go, though it be beſt for me;</hi> Let us pray then to God that hath taken away a <hi>Moſes,</hi> to ſend us a <hi>Joſhua;</hi> and if he take a <hi>Joſhua</hi> to ſend us a <hi>Caleb,</hi> and if he takes away a <hi>Caleb</hi> to ſend us an <hi>Eli,</hi> and if an <hi>Eli</hi> go, we may have a <hi>Samuel;</hi> Let us pray the Prayer of <hi>Moſes,</hi> in <hi>Numb.</hi> 27.16, 17. <hi>Let the Lord, the God of the Spirits of all fleſh, ſet a man over the Congre<g ref="char:EOLhyphen"/>gation, which may go out before them, and which may go in before them, and which may lead them out, and which may bring them in, that the Congregation of the Lord be not as the Sheep which have no Shepherd.</hi> Let us Pray, that God would be pleaſed to ſend ſome to go in and out before us. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
